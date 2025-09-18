@@ -1,0 +1,242 @@
+{
+  "verify": {
+    "firstName": "sdfg",
+    "lastName": "sdfgsdfg",
+    "subscriberId": "21314647987M",
+    "zipCode": "23132",
+    "birthDate": "06/11/1996",
+    "stateSubscriber": false,
+    "fullSsn": "",
+    "userId": "account"
+  },
+  "securityQuestionnaire": {
+    "securityQuestions": [
+      {
+        "id": "1",
+        "questions": [
+          {
+            "questionId": "5",
+            "questionText": "With which company did you hold your first job?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "6",
+            "questionText": "What is the first name of your man/maid of honor?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "7",
+            "questionText": "What is the first name of the youngest of your siblings?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "8",
+            "questionText": "In which year did you meet your spouse (YYYY)?",
+            "answerFormat": "Number"
+          },
+          {
+            "questionId": "9",
+            "questionText": "What were your wedding colors?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "10",
+            "questionText": "In which city did your parents get married?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "11",
+            "questionText": "What is your grandmother's middle name?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "12",
+            "questionText": "What is the name of your most memorable childhood playmate?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "13",
+            "questionText": "What is the name of your favorite culinary ingredient?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "14",
+            "questionText": "What is your mother's middle name?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "15",
+            "questionText": "What is the last name of your favorite author?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "16",
+            "questionText": "Where is your favorite vacation spot?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "17",
+            "questionText": "What is the last name of your favorite grade school teacher?",
+            "answerFormat": "Text"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "questions": [
+          {
+            "questionId": "18",
+            "questionText": "In which city was your spouse born?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "19",
+            "questionText": "What was the family name of your nearest neighbor in 2000?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "20",
+            "questionText": "What is the first name of your spouse's youngest siblings?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "21",
+            "questionText": "In which city was your mother born?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "22",
+            "questionText": "In which city did you get married?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "23",
+            "questionText": "What is the name of your most memorable childhood babysitter/caregiver?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "24",
+            "questionText": "Which phone number do you remember from your childhood?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "25",
+            "questionText": "How much were you paid per hour from your first job (format 9.99)?",
+            "answerFormat": "Number"
+          },
+          {
+            "questionId": "26",
+            "questionText": "What college was your favorite college rival (abbr: NYU, UCF)?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "27",
+            "questionText": "What is the name of the street your favorite residence is on?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "28",
+            "questionText": "What is the first name of your best friend from childhood?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "29",
+            "questionText": "What was the make and model of your first car (Make Model: e.g. Ford Fairlane)?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "30",
+            "questionText": "What was the name of your favorite pet?",
+            "answerFormat": "Text"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "questions": [
+          {
+            "questionId": "31",
+            "questionText": "What is the last name of your favorite college professor?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "32",
+            "questionText": "What is the first name of your youngest child?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "33",
+            "questionText": "Which state did you first visit (outside of the state you were born in)?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "34",
+            "questionText": "What is the name of the college you went to?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "35",
+            "questionText": "What was your favorite college year?",
+            "answerFormat": "Number"
+          },
+          {
+            "questionId": "36",
+            "questionText": "What is the middle name of your eldest sibling?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "37",
+            "questionText": "In which city was your grandmother born?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "38",
+            "questionText": "In which city was your grandfather born?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "39",
+            "questionText": "When is your oldest child's birthday (MM/DD)?",
+            "answerFormat": "Number"
+          },
+          {
+            "questionId": "40",
+            "questionText": "When is your youngest child's birthday (MM/DD)?",
+            "answerFormat": "Number"
+          },
+          {
+            "questionId": "41",
+            "questionText": "What was the name of the first grade school you attended?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "42",
+            "questionText": "What was the name of your first pet?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "43",
+            "questionText": "What was your first job? (Company Name no abbreviations)?",
+            "answerFormat": "Text"
+          },
+          {
+            "questionId": "44",
+            "questionText": "What was the name of the last school you attended?",
+            "answerFormat": "Text"
+          }
+        ]
+      }
+    ]
+  },
+  "setup": {
+    "requestToken": "CgM5U2Dd8hg2c77aTah5besvmSFDGYh6sJ04cm8EtWu9PKkHVT6q2vEEssA8KeXr1OKkADb0InbGvUpLBl04p7GEazYime5itE3UtnUlJGU6J2xRrVfjz4oKr7CLOEsy4qhAVhzAX0hJRXwkUj8sgtHkeyGjRhHh3vUAgv668biKqZE",
+    "nonce": "295a356eb2034dc19d7a84da17ce97a2",
+    "showAccountSharing": true
+  },
+  "availability": {
+    "response": "OK"
+  },
+  "share": {
+    "shared": true
+  }
+}
